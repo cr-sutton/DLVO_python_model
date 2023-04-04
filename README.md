@@ -1,2 +1,4 @@
 # DLVO_python_model
-Python code in .py format for model run and figure generation of kaolinite-sand DLVO model with and without copper in Figure 7 of 'In situ quantification of colloidal kaolinite transport and attachment in porous media using positron emission tomography' (DOI).
+Python code in .py format (dlvo_kao_NaCl_CuCl_TinPM.py) for model run and figure generation of kaolinite-sand DLVO model with and without copper in Figure 7 of 'In situ quantification of colloidal kaolinite transport and attachment in porous media using positron emission tomography' (DOI) and python code in .py format for radiolabeling bar chart plot with data (barPlots_radiolabel.py)
+
+Positron Emission Tomography data for high saline and low saline + increased flow rate runs are included as a .zip file (ottawaSand_kaolinite_PET_data.zip). UV-Vis breakthrough curve data is included as a .csv (uvVis_data.csv). Gamma count data with pore volume calucations are included as a .csv (gammaCounts.csv). All calibration curve data used in the linear regression for uv-vis absorbance to mol conversion are included as a .csv (calibrationCurves_abs_mol).
